@@ -1,0 +1,8 @@
+graph LR
+    A[آزمون زبان انگلیسی] -->|۲ تا ۳ ماه| B[ارزیابی تخصص]
+    B -->|۳ تا ۴ ماه| C[درخواست ویزای مهارتی]
+    C -->|۶ تا ۹ ماه| D[مهاجرت به استرالیا]
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#ccf,stroke:#333,stroke-width:4px
+    style C fill:#cfc,stroke:#333,stroke-width:4px
+    style D fill:#9f9,stroke:#333,stroke-width:4px
